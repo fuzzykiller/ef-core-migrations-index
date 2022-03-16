@@ -1,0 +1,5 @@
+*               text=auto eol=crlf
+Dockerfile      text eol=lf
+.git*           text eol=lf
+.gitlab-ci.yml  text eol=lf
+.gitlab-ci.docker.yml text eol=lf
